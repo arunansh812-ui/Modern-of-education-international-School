@@ -1,8 +1,10 @@
-// Firebase Console > Project settings > Your apps > Web app > SDK setup and configuration.
-// These are public project identifiers, NOT administrator passwords or service-account keys.
+
 export const firebaseConfig = {
-  apiKey: 'PASTE_API_KEY',
-  authDomain: 'PASTE_PROJECT_ID.firebaseapp.com',
-  projectId: 'PASTE_PROJECT_ID',
-  appId: 'PASTE_APP_ID'
-};
+  apiKey: "AIzaSyDwLCXeJX_Yiu6vnCLnqljEiCTVFMK16fo",
+  authDomain: "modern-of-education.firebaseapp.com",
+  projectId: "modern-of-education",
+  storageBucket: "modern-of-education.firebasestorage.app",
+  messagingSenderId: "963537115482",
+  appId: "1:963537115482:web:b84386cc49d65b8fc83b63",
+  measurementId: "G-5D8SFT686F"
+
